@@ -1,1 +1,1 @@
-1. Mean-Variance-Standard Deviation Calculator. The task is here[URL:https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/mean-variance-standard-deviation-calculator]
+1. Mean-Variance-Standard Deviation Calculator. The task is [here](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/mean-variance-standard-deviation-calculator)
