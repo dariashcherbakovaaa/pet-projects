@@ -1,8 +1,1 @@
-# My "pet projects" in Data Science &amp; Analysis
-Here I put my own projects, which I have performed to advance my skills in python programming, data analysis (eda, numpy, pandas), ML
-
-## *🦊 Data Analysis with Python from freecodecamp*
-
-## *🦚 Marketing*
-
-## *🦧 Finance*
+1. Mean-Variance-Standard Deviation Calculator. The task is here[URL:https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/mean-variance-standard-deviation-calculator]
